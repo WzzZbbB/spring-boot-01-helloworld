@@ -8,5 +8,6 @@ public class HelloWorld {
     public static void main(String[] args) {
         //启动Spring应用
         SpringApplication.run(HelloWorld.class,args);
+        System.out.println("111");
     }
 }
